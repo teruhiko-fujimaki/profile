@@ -87,7 +87,7 @@ const HomePage = () => {
             <div class="col-md-4 services">
               <img src={jsImage} />
               <h4>HTML/CSS</h4>
-              <p>HTML/CSSがつかえます</p>
+              <p>HTML/CSS/PHPがつかえます</p>
             </div>
             <div class="col-md-4 services">
               <img src={firebaseImage} />
