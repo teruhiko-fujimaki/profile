@@ -31,7 +31,7 @@ const HomePage = () => {
             <div class="col-md-4">
               <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                <img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" class="fa-stack-1x fa-inverse" style="width: 50%; height: auto; margin: 25%;" alt="Microsoft Certified Badge" />
               </span>
               <h4 class="my-3">
                 <a href="https://learn.microsoft.com/ja-jp/users/osakamacky-1321/credentials/certification/microsoft-365-fundamentals?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
